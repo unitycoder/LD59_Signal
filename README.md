@@ -3,3 +3,6 @@ LudumDare 59 : Signal
 
 ### Entry
 - https://ldjam.com/events/ludum-dare/59/signal
+
+### Making of
+- https://www.youtube.com/watch?v=9OLymfNObmk
